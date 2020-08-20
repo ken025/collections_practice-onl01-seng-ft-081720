@@ -23,5 +23,6 @@ def reverse_array(array)
   array
 end 
 
-def find_a(array)
-  
+def kesha_maker(array)
+  array.each do |char|
+    char
