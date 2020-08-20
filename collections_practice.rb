@@ -22,3 +22,6 @@ def reverse_array(array)
   array = array.reverse
   array
 end 
+
+def find_a(array)
+  
