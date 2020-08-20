@@ -47,5 +47,6 @@ def add_s(array)
   if index != array[1]
       word = word + "s"
     end 
+    
   end 
   end 
