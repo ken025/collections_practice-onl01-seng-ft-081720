@@ -44,3 +44,4 @@ end
 def add_s(array)
   if index != array[1]
     add_s.each_with_index do |word, index|
+      "#{word}"
